@@ -7,7 +7,7 @@ Our team SneakBytes has participated in this year's NahamCon CTF! We managed to 
 ## Writeups (WIP):
 - Online Chatroom  [Warmup]
 - Regina [Warmup]
-- [Obligatory](./Obligatory/) [Web]
+- [Obligatory](https://github.com/jmrcsnchz/NahamCon_CTF_2023_Writeups/blob/main/Obligatory/README.md) [Web]
 - Stickers [Web]
 - Star Wars [Web]
 - Zombie [Miscellaneous]
