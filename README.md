@@ -10,7 +10,7 @@ Our team SneakBytes has participated in this year's NahamCon CTF! We managed to 
 - [Obligatory](https://github.com/jmrcsnchz/NahamCon_CTF_2023_Writeups/blob/main/Obligatory/README.md) [Web]
 - Stickers [Web]
 - Star Wars [Web]
-- Zombie [Miscellaneous]
+- [Zombie](./Zombie/README.md) [Miscellaneous]
 - Geosint 1 [OSINT]
 - Geosint 3 [OSINT]
 - Open Sesame [Binary Exploitation]
