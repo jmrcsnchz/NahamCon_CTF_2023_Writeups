@@ -3,6 +3,11 @@
 NahamCon CTF 2023
 
 *I have a tyrannosaurus rex plushie and I named it Regina! Here, you can talk to it :)*
+```
+Connect with:
+# Password is "userpass"
+ssh -p <PORT> user@challenge.nahamcon.com
+```
 
 ## Writeup
 
