@@ -1,4 +1,4 @@
-# NahamCon CTF 2023
+# NahamCon CTF 2023 Writeups
 
 ctf.nahamcon.com
 
