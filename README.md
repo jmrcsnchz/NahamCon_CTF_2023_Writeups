@@ -7,7 +7,7 @@ Our team SneakBytes has participated in this year's NahamCon CTF! We managed to 
 
 ![SneakBytes](./c27cbab810f5b0c842810218b078fae37f07c3d047e84ffe3f2297767daf5368.png)
 
-## Writeups:
+## Writeups (WIP):
 - Online Chatroom  [Warmup]
 - Regina [Warmup]
 - Obligatory [Web]
